@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     }
+     .prod{
+        width: 100%;
+        height: 90vh;
+         margin-top:5%;
+      }
+    .prod img{
+        width:100%;
+        height:90vh;
+        }
+    .centered1 {
+        position: absolute;
+        top: 35%;
+        left: 45%;
+        transform: translate(-50%, -50%);
+        color:green;
+        text-align: center;
+        font-size: 50px;
+      }
+      .productss{
+        width: 100%;
+        height: 150vh;
+        background-color:rgb(201, 247, 243);        
+      }
+     .prod1{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:6.5%;
+        color: #3693c9;
+        margin-bottom:3%;
+             }
+     .prod1 img{
+        height:30vh;
+        width:100%;
+        border-radius: 10%;
+        margin-bottom: 8%;
+     }
+           .butn{
+        width: 60%;
+        height:10vh;
+        margin-left:30%; 
+        
+      }
+      .butn button{
+        width:60%;
+        height:8vh;
+        color: #3693c9;
+       text-align: center;
+       border-color: rgb(90, 204, 224);
+       background-color: rgb(174, 252, 226);
+      }
+      /* nxt 2nd div css start */
+      .prod2{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:3%;
+        color: #3693c9;
+             }
+             
+     .prod2 img{
+        height:30vh;
+        width:100%;
+        border-radius: 10%;
+        margin-bottom: 8%;
+      }
+     
+      /* 3rd div start */
+      .prod3{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:3%;
+        color: #3693c9;
+             }
+     .prod3 img{
+        height:30vh;
+        width:100%;
+        border-radius: 10%;
+        margin-bottom: 8%;
+     }
+       
+      /* 4th div start */
+      .prod4{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:8%;
+        margin-top:3%;
+        color: #3693c9;
+             }
+     .prod4 img{
+        height:30vh;
+        width:100%;
+        border-radius: 10%;
+        margin-bottom: 8%;
+     }
+       
+      /* 5th div start */
+      .prod5{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:3%;
+        margin-top:3%;
+        color: #3693c9;
+             }
+     .prod5 img{
+        height:30vh;
+        width:100%;
+        border-radius: 10%;
+        margin-bottom: 8%;
+     }
+       
+      /* 6th div start */
+      .prod6{
+        height:60vh;
+        width:25%;
+        background-color: white;
+        border-radius: 10%;
+        text-align:center;
+        float:left;
+        margin-left:3%;
+        color: #3693c9;
+        margin-top:3%;
+             }
+     .prod6 img{
+        height:30vh;
+        margin-bottom: 8%;
+        width:100%;
+        border-radius: 10%;
+     }
